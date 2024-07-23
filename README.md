@@ -1,4 +1,15 @@
-# Flappy Bird Javascript
+# Multiverse Flappy Bird 
 
-A Pen created on CodePen.io. Original URL: [https://codepen.io/ju-az/pen/eYJQwLx](https://codepen.io/ju-az/pen/eYJQwLx).
+## Steps to start the application
+
+### Front End
+cd client 
+yarn install 
+yarn next dev
+
+### Back End
+
+cd server 
+yarn install 
+node server.js
 
